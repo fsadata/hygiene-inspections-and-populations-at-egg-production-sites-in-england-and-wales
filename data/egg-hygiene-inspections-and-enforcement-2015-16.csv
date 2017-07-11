@@ -1,0 +1,6 @@
+DateTo,DateFrom,NumberOfInspections,NumberOfFollowUpInspections,GuidanceLetters,WarningLetters,HINs,OverallComplianceRatePercentage
+01/04/2011,31/03/2012,405,40,18,7,7,0.74
+01/04/2012,31/03/2013,474,48,13,5,2,0.78
+01/04/2013,31/03/2014,493,63,52,1,1,0.66
+01/04/2014,31/03/2015,477,74,29,8,3,0.71
+01/04/2015,31/03/2016,353,40,13,8,0,0.79
